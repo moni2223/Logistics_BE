@@ -1,4 +1,3 @@
-# filepath: /home/radi/Documents/CSCB532/copilot_attempt/logistics-company-backend/app/__init__.py
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 from flask_jwt_extended import JWTManager
